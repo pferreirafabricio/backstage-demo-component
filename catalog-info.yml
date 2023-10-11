@@ -1,0 +1,22 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  title: Portal PHP API
+  name: portal-php-api
+  description: Long lorem ipsum.
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+  tags:
+    - mysql
+    - php
+    - docker
+    - kubernetes
+  links:
+    - url: https://www.php.net/docs.php
+      title: PHP Docs
+      icon: launch
+spec:
+  type: openapi
+  lifecycle: development
+  owner: Portal PHP Team
+  system: portal-php

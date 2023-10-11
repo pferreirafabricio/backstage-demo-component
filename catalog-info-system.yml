@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: portal-php
+  description: Long lorem ipsum.
+spec:
+  owner: Portal PHP Team
+  domain: Worldwideweb

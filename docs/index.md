@@ -1,0 +1,3 @@
+# Some docs index
+
+🌟 Lorem

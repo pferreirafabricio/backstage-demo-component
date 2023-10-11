@@ -1,0 +1,4 @@
+site_name: 'portal-php-docs'
+
+plugins:
+  - techdocs-core

@@ -1,0 +1,3 @@
+# Some architecture index
+
+🔍 Lorem
