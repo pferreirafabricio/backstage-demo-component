@@ -1,4 +1,7 @@
 site_name: 'portal-php-docs'
 
+nav:
+  - Home: index.md
+
 plugins:
   - techdocs-core
