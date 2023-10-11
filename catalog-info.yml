@@ -16,7 +16,7 @@ metadata:
       title: PHP Docs
       icon: launch
 spec:
-  type: openapi
+  type: library
   lifecycle: development
   owner: Portal PHP Team
   system: portal-php
